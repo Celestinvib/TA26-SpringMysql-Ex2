@@ -1,6 +1,6 @@
 # TA26-SpringMysql-Ex2
 
-#### Heroku-Deploy -> 
+#### Heroku-Deploy -> https://cka-ta26-ex2.herokuapp.com
 
 ### URIs endpoints: 
   
